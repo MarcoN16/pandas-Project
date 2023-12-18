@@ -56,15 +56,19 @@ Performance Analysis
 - Average math and reading scores for each grade level (9th, 10th, 11th, 12th) at each school
   
 Highest:
+
 ![Highest-Performing_Schools](https://github.com/MarcoN16/pandas-challenge/assets/150491559/685f0d34-b232-4b0a-b957-2d080c33bbf2)
 
 Lowest:
+
 ![Bottom_Performing_Schools](https://github.com/MarcoN16/pandas-challenge/assets/150491559/69ae7321-8069-4f11-8bf0-f05c69b67e5b)
 
-Average math scores
+Average math scores:
+
 ![Math Scores by Grade](https://github.com/MarcoN16/pandas-challenge/assets/150491559/bf2f9e3e-fabc-411c-9b5e-bcb5807b1618)
 
-Average reading scores
+Average reading scores:
+
 ![Reading Score by Grade](https://github.com/MarcoN16/pandas-challenge/assets/150491559/21ca3049-520b-4a04-8875-1660517c9cdb)
 
 
