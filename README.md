@@ -27,41 +27,41 @@ District Summary
 
 This section presents key metrics for the entire district:
 
-    Total number of unique schools
-    Total number of students
-    Total budget
-    Average math and reading scores
-    Percentage of students passing math, reading, and both subjects (overall passing percentage)
+- Total number of unique schools
+- Total number of students
+- Total budget
+- Average math and reading scores
+- Percentage of students passing math, reading, and both subjects (overall passing percentage)
 
 School Summary
 
 The school-specific metrics include:
 
-    School name
-    School type
-    Total students
-    Total school budget
-    Per student budget
-    Average math and reading scores
-    Percentage of students passing math, reading, and both subjects
+- School name
+- School type
+- Total students
+- Total school budget
+- Per student budget
+- Average math and reading scores
+- Percentage of students passing math, reading, and both subjects
 
 Performance Analysis
 
-    Highest and Lowest-Performing Schools (by % Overall Passing)
-    Average math and reading scores for each grade level (9th, 10th, 11th, 12th) at each school
+- Highest and Lowest-Performing Schools (by % Overall Passing)
+- Average math and reading scores for each grade level (9th, 10th, 11th, 12th) at each school
 
 Metrics by Spending Ranges
 
 This table breaks down school performance based on average spending ranges per student. It includes:
 
-    Average math and reading scores
-    Percentage of students passing math, reading, and both subjects
+- Average math and reading scores
+- Percentage of students passing math, reading, and both subjects
 
 Metrics by School Size
 
-Summarizes key metrics based on school size.
+- Summarizes key metrics based on school size.
 
 Metrics by School Type
 
-Summarizes key metrics categorized by school type (Charter vs. District).
+- Summarizes key metrics categorized by school type (Charter vs. District).
 
