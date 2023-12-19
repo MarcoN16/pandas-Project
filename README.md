@@ -17,7 +17,7 @@ In summary, the analysis underscores a noticeable difference between math and re
 
 # Data Sources
 
-The analysis integrates information from two CSV files: schools_complete.csv and students_complete.csv. The merged dataset includes crucial details such as:
+The analysis integrates information from two CSV files: schools_complete.csv and students_complete.csv. The merged dataset includes different information such as:
 
     School ID, school_name, type, size, budget from schools_complete.csv
     Student ID, student_name, gender, grade, school_name, reading_score, math_score from students_complete.csv
