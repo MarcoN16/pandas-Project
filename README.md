@@ -1,5 +1,3 @@
-# pandas-challenge
-
 # School District Analysis Report
 
 This project use Pandas and Jupyter Lab to create an in-depth report for the city's school district. The analysis aims to assist the school board and mayor in making informed decisions regarding future school budgets and priorities.
